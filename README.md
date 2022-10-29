@@ -3,7 +3,7 @@
 Qualia Shell > conatus.daemon
 
 Interdependent Decision Model of make choices. 
-Seed, grow, remix, evolve. 
+Improvise, test, seed, grow, remix, adapt overcome, evolve. 
 
 Share the pass. Roll the dices. 
 
