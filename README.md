@@ -10,4 +10,4 @@ Share the pass. Roll the dices.
 Turn on, tune in, drop out. 
 
 ...
-Reengineering noogenesis, Evolutionary algorithms, Artificial life, Artificial General Intelligence, Swarm Intelligence, Particle swarm optimization, Emergent Behaviour Network, Real-time Collective Intelligence, Global brain, Crowdsourcing, Ghost Work
+Human-Computer Interaction, Reengineering noogenesis, Evolutionary algorithms, Artificial life, Artificial General Intelligence, Swarm Intelligence, Particle swarm optimization, Emergent Behaviour Network, Real-time Collective Intelligence, Global brain, Crowdsourcing, Ghost Work
